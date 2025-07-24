@@ -10,7 +10,7 @@ A step by step guide on How to Run `Sequencer Node` on Aztec Network Testnet & E
 ## Roles Info
 Sequecner Nodes will receive a certain role for their contribution on Discord.
 
-After running and syncing your Sequencer node, You can go through [Get Role](https://github.com/0xmoei/aztec-network/blob/main/README.md#get-apprentice-discord-role) step.
+After running and syncing your Sequencer node, You can go through [Get Role](https://github.com/hydiracrypto/aztec-network/blob/main/README.md#get-apprentice-discord-role) step.
 
 ---
 
@@ -33,12 +33,6 @@ After running and syncing your Sequencer node, You can go through [Get Role](htt
 
 * **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
 * I don't run `Prover` since it's for data-center computing systems, not me.
-
----
-
-**Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
-
-**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
 
 ---
 
@@ -122,7 +116,7 @@ aztec-up latest
 ![image](https://github.com/user-attachments/assets/eae865ab-461f-46cd-b3f9-b7d118dcbbdf)
 
 ### Paid: 
-For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
+For example: [Ankr](https://www.ankr.com/rpc/) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
 
 ![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
 
@@ -453,7 +447,7 @@ aztec start --node --archiver --sequencer \
 If you encountered: `ERROR: world-state:block_stream Error processing block stream: Error: Obtained L1 to L2 messages failed to be hashed to the block inHash`
 
 * You have to stop your node, delete data and restart it.
-* Follow [Update Node](https://github.com/0xmoei/aztec-network/blob/main/README.md#-update-sequencer-node) steps
+* Follow [Update Node](https://github.com/hydiracrypto/aztec-network/blob/main/README.md#-update-sequencer-node) steps
 
 ---
 
