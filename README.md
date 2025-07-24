@@ -36,6 +36,12 @@ After running and syncing your Sequencer node, You can go through [Get Role](htt
 
 ---
 
+**Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/hydiracrypto/Install-Linux-on-Windows), then continue further steps.
+
+**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
+
+---
+
 ## 1. Install Dependecies
 * Update packages:
 ```bash
@@ -107,7 +113,7 @@ aztec-up latest
 **More details on RPC solutions**:
 
 ### Get Your Own RPC by Running Geth & Prysm Nodes
-* You can run your own local RPC nodes by following this guide: [geth-prysm-node](https://github.com/0xmoei/geth-prysm-node). You may need 600-1000 GB SSD
+* You can run your own local RPC nodes by following this guide: [geth-prysm-node](https://github.com/hydiracrypto/geth-prysm-node). You may need 600-1000 GB SSD
   
 ### Free:
 * `RPC URL`: Create a Sepolia Ethereum HTTP API in [Alchemy](https://dashboard.alchemy.com/)
@@ -116,7 +122,7 @@ aztec-up latest
 ![image](https://github.com/user-attachments/assets/eae865ab-461f-46cd-b3f9-b7d118dcbbdf)
 
 ### Paid: 
-For example: [Ankr](https://www.ankr.com/rpc/) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
+For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
 
 ![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
 
