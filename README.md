@@ -38,7 +38,7 @@ After running and syncing your Sequencer node, You can go through [Get Role](htt
 
 **Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/hydiracrypto/Install-Linux-on-Windows), then continue further steps.
 
-**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
+**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://contabo.com)
 
 ---
 
